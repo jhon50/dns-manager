@@ -1,24 +1,31 @@
-# README
+# DNS Manager
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a basic DNS manager
 
-Things you may want to cover:
+# Application Requirements
 
-* Ruby version
+* Rails 5.2
+* Ruby 2.4.6
 
-* System dependencies
+# Prepare application
 
-* Configuration
+Install gems
 
-* Database creation
+`bundle install`
 
-* Database initialization
+Create database
 
-* How to run the test suite
+`rake db:create db:migrate`
 
-* Services (job queues, cache servers, search engines, etc.)
+# How To Execute
 
-* Deployment instructions
+This application is using foreman as default to launch everything you might need.
+Edit Procfile or use commands individually if you want.
 
-* ...
+run: 
+`rails s`
+
+# How To Test
+
+run: 
+`bundle exec rspec spec`
