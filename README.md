@@ -29,3 +29,10 @@ run:
 
 run: 
 `bundle exec rspec spec`
+
+# Postman Requests
+
+You can download this collection that I created for this project through the link below:
+https://www.getpostman.com/collections/faee0abfc9da86a23b76
+
+Import it to your Postman.
