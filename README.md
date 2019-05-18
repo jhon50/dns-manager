@@ -19,9 +19,6 @@ Create database
 
 # How To Execute
 
-This application is using foreman as default to launch everything you might need.
-Edit Procfile or use commands individually if you want.
-
 run: 
 `rails s`
 
