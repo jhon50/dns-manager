@@ -35,4 +35,7 @@ run:
 You can download this collection that I created for this project through the link below:
 https://www.getpostman.com/collections/faee0abfc9da86a23b76
 
+If you have any trouble download a JSON that I exported from Postman here:
+https://drive.google.com/open?id=1S2LsOdnMLZJ_LBMoI_VsU6nc0q-vrCyE
+
 Import it to your Postman.
